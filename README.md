@@ -28,6 +28,6 @@ including all the assumptions.
 2. Music Management System ERD.png : This file contains our final output that is the 
 ERD we made using workbench.
 3. Project1_Plan.xlsx : This file contains the rough plan which we made before starting the project 1.
-4. Music Management System.txt : This is the text file of our code and all our assumptions.
+
 
 ![image](https://user-images.githubusercontent.com/93238919/157852156-e614a7a9-e87c-4b5c-a69c-20a78ac00eff.png)
