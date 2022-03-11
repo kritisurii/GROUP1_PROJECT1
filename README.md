@@ -4,8 +4,11 @@
 Mid-Term Projects 
 **Project 1**
 
-**Case-Study** : 
+**Case-Study** : This repository contains 1 file Excel file containing the entites, ER diagram, mySQL codes, and ERD library
 
+This database system helps to provide complete information of the music albums and genres to the customer, according to which users can easily find the song they are looking for. Admin can use Music Database System to insert and delete data such as music albums, song names, music genres, artist names which will update the database and which will be accessible by the customers. The number of times the song has been played can also be viewed.
+
+The database contains 6 tables with multiple coloumns in each table.
 
 **Tools Used** : Oracle VM VirtualBox, Ubuntu, MySQL, MS Excel and WorkBench
 
